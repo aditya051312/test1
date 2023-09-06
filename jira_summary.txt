@@ -1,0 +1,5 @@
+Found 4 issues:
+1. Key: OTS-178, Summary: Admin Management, Created: 2023-08-25, Assignee: None, Priority: Medium, Status: To Do, Description: CRUD Operations for Admin Management
+2. Key: OTS-151, Summary: Order Tracking, Created: 2023-08-24, Assignee: None, Priority: Medium, Status: To Do, Description: Order Tracking
+3. Key: OTS-150, Summary: Order Management, Created: 2023-08-24, Assignee: None, Priority: Medium, Status: To Do, Description: Order Management
+4. Key: OTS-149, Summary: Client Management, Created: 2023-08-24, Assignee: None, Priority: Medium, Status: To Do, Description: Client Management
