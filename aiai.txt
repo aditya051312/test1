@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) is a fascinating field of computer science that aims to create machines that mimic human intelligence. This can include tasks such as learning, reasoning, problem-solving, perception, and language understanding.
+
+AI can be classified into two main types: weak AI, also known as narrow AI, which is designed to perform a narrow task such as voice recognition, and strong AI, also known as artificial general intelligence (AGI), which performs any intellectual task that a human being can do.
+
+AI technologies have a broad range of applications, including in sectors such as healthcare, finance, transportation, and more. They have the potential to greatly impact society, with benefits such as increased efficiency and accuracy in tasks, as well as potential drawbacks such as job displacement due to automation.
+
+The future of AI is exciting and holds many possibilities, with ongoing research and advancements. However, it also prompts important discussions on ethics and regulation to ensure it is developed and used responsibly.
