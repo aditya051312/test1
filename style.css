@@ -1,0 +1,31 @@
+/* CSS for login page */
+body {
+  background-color: #f0f0f0;
+}
+.login {
+  width: 300px;
+  padding: 16px;
+  background-color: #ffffff;
+  margin: 0 auto;
+  margin-top: 100px;
+  border-radius: 4px;
+}
+.login input[type="text"], .login input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+}
+.login input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: #198754;
+  border: none;
+  color: #ffffff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.login input[type="submit"]:hover {
+  background-color: #157347;
+}
