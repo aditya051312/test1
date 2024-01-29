@@ -1,0 +1,5 @@
+```
+
+Finally, let's create a `run.sh` file that will act as the entry point of our program:
+
+run.sh
