@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Attendance</title>
+</head>
+<body>
+    <h2>Mark Attendance</h2>
+    <form id="attendanceForm">
+        <label for="studentId">Student ID:</label><br>
+        <input type="text" id="studentId" name="studentId"><br>
+        <input type="button" value="Present" onclick="markAttendance('present')">
+        <input type="button" value="Absent" onclick="markAttendance('absent')">
+    </form>
+    <script src="attendance.js"></script>
+</body>
+</html>
